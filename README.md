@@ -5,3 +5,7 @@ tips and suggestions about my home town.
 
 This is an evolving collection of such tips. If you have more, please open a
 pull request!
+
+#### Small print
+
+This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
