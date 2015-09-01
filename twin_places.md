@@ -17,3 +17,4 @@ time ago suggesting the first pair in the list.
 * Holloway = Viale Monza
 * Sheperds Bush = Maciachini
 * Stratford = Cinisello Balsamo
+* Trafalgar Square = Piazza Duca D'Aosta
