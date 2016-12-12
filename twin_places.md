@@ -8,6 +8,7 @@ time ago suggesting the first pair in the list.
 * Soho = Moscova
 * City = Repubblica
 * Shoreditch = Porta Genova
+* Brick Lane = Colonne di San Lorenzo
 * Liverpool St = Porta Garibaldi
 * Brixton = Lambrate
 * Oxford Street = Corso Buenos Aires
