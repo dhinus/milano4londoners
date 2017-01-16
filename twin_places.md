@@ -19,3 +19,4 @@ time ago suggesting the first pair in the list.
 * Sheperds Bush = Maciachini
 * Stratford = Cinisello Balsamo
 * Trafalgar Square = Piazza Duca D'Aosta
+* Elephant & Castle = Bonola
