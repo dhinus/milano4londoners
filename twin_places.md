@@ -15,6 +15,7 @@ time ago suggesting the first pair in the list.
 * Kings Cross = Piazzale Loreto
 * Paddington = Cadorna
 * Finsbury Park = Via Padova
+* Hackney Wick = Bovisa
 * Holloway = Viale Monza
 * Sheperds Bush = Maciachini
 * Stratford = Cinisello Balsamo
